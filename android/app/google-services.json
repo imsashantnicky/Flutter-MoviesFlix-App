@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621159648287",
+    "project_id": "flutter-moviesflix",
+    "storage_bucket": "flutter-moviesflix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621159648287:android:f9de6ae45d2ab614b0d92a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_moviesflix_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bYyXtp0zOX8pkGatuNhYmGD_6CN5OXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
